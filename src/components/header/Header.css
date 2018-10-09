@@ -19,10 +19,11 @@
 }
 
 .navigation__logo {
-    background-image: url("../../assets/img/logo.png");
+    background-image: url("../../assets/img/logo.jpeg");
     position: relative;
-    width: 200px;
+    width: 65px;
     height: 50px;
+    background-size: cover;
 }
 
 .navigation a:hover {
